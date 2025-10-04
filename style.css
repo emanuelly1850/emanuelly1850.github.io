@@ -28,6 +28,8 @@ body {
 
 .infos {
     flex: 2;
+    flex-direction: column;
+    justify-content: center;
     padding: 68px;
     display: flex;
 
