@@ -88,12 +88,12 @@ footer{
 }
 
 .experiencia {
-    background-color: rgb(34, 125, 148);
-    color: rgb(79, 212, 18);
+    background-color: rgb(0, 204, 255);
+    color: rgb(58, 110, 33);
 }
 .sobre{
-    background-color: aqua;
-    color: rgb(6, 185, 126);
+    background-color: rgb(63, 180, 180);
+    color: rgb(0, 255, 170);
 }
 /* --- Media Queries: Estilos para telas menores (smartphones e tablets) --- */
 /* Estes estilos só serão aplicados quando a largura da tela for no máximo 768 pixels */
