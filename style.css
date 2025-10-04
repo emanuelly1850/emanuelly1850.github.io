@@ -86,3 +86,12 @@ footer{
     font-size: 16px;
     font-weight: 500;
 }
+
+.experiencia {
+    background-color: rgb(34, 125, 148);
+    color: rgb(79, 212, 18);
+}
+.sobre{
+    background-color: aqua;
+    color: rgb(6, 185, 126);
+}
