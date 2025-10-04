@@ -1,0 +1,74 @@
+body {
+
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: rgb(34, 30, 30);
+
+}
+
+.inicio {
+    display: flex;
+    height: 100vh;
+}
+
+
+.foto {
+    flex: 1;
+    background-color: rgb(221, 28, 28);
+    display: flex;
+    align-items: center;
+
+}
+
+.foto img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.infos {
+    flex: 2;
+    padding: 68px;
+    display: flex;
+
+}
+
+.infos h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+.infos h2 {
+    font-size: 24px;
+    color: blue;
+    margin-top: 10px;
+}
+
+.infos p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.redes-sociais {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.4px;
+    margin-top: 1.4px;
+}
+
+.redes-sociais a {
+    display: grid;
+    place-items: center;
+    text-decoration: nome;
+    color: aqua;
+    border: 1.6px solid gray;
+    font-size: 1.5px;
+    border-radius: 50%;
+    padding: 0.39rem;
+    text-align: center;
+}
+
+.redes-sociais a:hover {
+    color: #444;
+    background-color: bisque;
+}
