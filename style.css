@@ -74,3 +74,15 @@ body {
     color: #444;
     background-color: bisque;
 }
+footer{
+    background-color: #444;
+    color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+}
+footer{ 
+    margin: 0;
+    font-family: 'Courier New', 'Courier, monospace',serif;
+    font-size: 16px;
+    font-weight: 500;
+}
